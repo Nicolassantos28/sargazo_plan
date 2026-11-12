@@ -1,1 +1,0 @@
-Suba la carpeta "app" a la raíz del repositorio sargazo_plan (Add file > Upload files) y dé clic en Commit changes. Reemplaza la página anterior en la misma liga: https://nicolassantos28.github.io/sargazo_plan/
